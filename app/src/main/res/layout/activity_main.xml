@@ -8,8 +8,8 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:text="123"
-        
+        android:text="321"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
